@@ -1,0 +1,53 @@
+[Wed Sep 28 15:46:09.571465 2022] [ssl:warn] [pid 8340:tid 1908] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:09.603476 2022] [ssl:warn] [pid 8340:tid 1908] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:09.678612 2022] [mpm_winnt:notice] [pid 8340:tid 1908] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33 configured -- resuming normal operations
+[Wed Sep 28 15:46:09.678612 2022] [mpm_winnt:notice] [pid 8340:tid 1908] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Wed Sep 28 15:46:09.678612 2022] [core:notice] [pid 8340:tid 1908] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Sep 28 15:46:09.683308 2022] [mpm_winnt:notice] [pid 8340:tid 1908] AH00418: Parent: Created child process 15548
+[Wed Sep 28 15:46:10.134466 2022] [ssl:warn] [pid 15548:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:10.164751 2022] [ssl:warn] [pid 15548:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:10.190101 2022] [mpm_winnt:notice] [pid 15548:tid 620] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 28 15:46:53.593591 2022] [ssl:warn] [pid 9904:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:53.624339 2022] [ssl:warn] [pid 9904:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:53.658715 2022] [mpm_winnt:notice] [pid 9904:tid 604] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33 configured -- resuming normal operations
+[Wed Sep 28 15:46:53.658715 2022] [mpm_winnt:notice] [pid 9904:tid 604] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Wed Sep 28 15:46:53.658715 2022] [core:notice] [pid 9904:tid 604] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Sep 28 15:46:53.662376 2022] [mpm_winnt:notice] [pid 9904:tid 604] AH00418: Parent: Created child process 13700
+[Wed Sep 28 15:46:54.297048 2022] [ssl:warn] [pid 13700:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:54.324079 2022] [ssl:warn] [pid 13700:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 15:46:54.346105 2022] [mpm_winnt:notice] [pid 13700:tid 584] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 28 16:02:03.542709 2022] [ssl:warn] [pid 3500:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 16:02:03.576867 2022] [core:warn] [pid 3500:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 28 16:02:03.578924 2022] [ssl:warn] [pid 3500:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 16:02:03.830817 2022] [mpm_winnt:notice] [pid 3500:tid 420] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33 configured -- resuming normal operations
+[Wed Sep 28 16:02:03.830817 2022] [mpm_winnt:notice] [pid 3500:tid 420] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Wed Sep 28 16:02:03.830817 2022] [core:notice] [pid 3500:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Sep 28 16:02:03.832325 2022] [mpm_winnt:notice] [pid 3500:tid 420] AH00418: Parent: Created child process 12548
+[Wed Sep 28 16:02:04.145765 2022] [ssl:warn] [pid 12548:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 16:02:04.173785 2022] [ssl:warn] [pid 12548:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 28 16:02:04.202527 2022] [mpm_winnt:notice] [pid 12548:tid 596] AH00354: Child: Starting 150 worker threads.
+[Thu Sep 29 14:22:53.936934 2022] [ssl:warn] [pid 15856:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 14:22:53.972324 2022] [core:warn] [pid 15856:tid 592] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Sep 29 14:22:53.972324 2022] [ssl:warn] [pid 15856:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 14:22:54.177383 2022] [mpm_winnt:notice] [pid 15856:tid 592] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33 configured -- resuming normal operations
+[Thu Sep 29 14:22:54.177383 2022] [mpm_winnt:notice] [pid 15856:tid 592] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Sep 29 14:22:54.177383 2022] [core:notice] [pid 15856:tid 592] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Sep 29 14:22:54.183028 2022] [mpm_winnt:notice] [pid 15856:tid 592] AH00418: Parent: Created child process 5908
+[Thu Sep 29 14:22:54.388530 2022] [ssl:warn] [pid 5908:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 14:22:54.401819 2022] [ssl:warn] [pid 5908:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 14:22:54.422034 2022] [mpm_winnt:notice] [pid 5908:tid 592] AH00354: Child: Starting 150 worker threads.
+[Thu Sep 29 14:24:25.267983 2022] [php7:notice] [pid 5908:tid 1792] [client 127.0.0.1:64088] PHP Notice:  Undefined index: aid in C:\\xampp\\htdocs\\covid-tms\\dashboard.php on line 4
+[Thu Sep 29 19:58:23.384220 2022] [ssl:warn] [pid 16804:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 19:58:23.404170 2022] [core:warn] [pid 16804:tid 584] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Sep 29 19:58:23.406173 2022] [ssl:warn] [pid 16804:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 19:58:23.428002 2022] [mpm_winnt:notice] [pid 16804:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33 configured -- resuming normal operations
+[Thu Sep 29 19:58:23.428002 2022] [mpm_winnt:notice] [pid 16804:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Sep 29 19:58:23.428002 2022] [core:notice] [pid 16804:tid 584] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Sep 29 19:58:23.431002 2022] [mpm_winnt:notice] [pid 16804:tid 584] AH00418: Parent: Created child process 8020
+[Thu Sep 29 19:58:23.628503 2022] [ssl:warn] [pid 8020:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 19:58:23.649579 2022] [ssl:warn] [pid 8020:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 29 19:58:23.666580 2022] [mpm_winnt:notice] [pid 8020:tid 612] AH00354: Child: Starting 150 worker threads.
+[Thu Sep 29 20:37:36.345376 2022] [php7:notice] [pid 8020:tid 1836] [client 127.0.0.1:52622] PHP Notice:  Undefined index: aid in C:\\xampp\\htdocs\\covid-tms\\dashboard.php on line 4, referer: http://localhost/covid-tms/dashboard.php
+[Thu Sep 29 21:08:22.416883 2022] [php7:notice] [pid 8020:tid 1836] [client 127.0.0.1:57873] PHP Notice:  Undefined index: aid in C:\\xampp\\htdocs\\covid-tms\\dashboard.php on line 4
+[Thu Sep 29 21:34:39.256174 2022] [php7:notice] [pid 8020:tid 1820] [client 127.0.0.1:58089] PHP Notice:  Undefined index: aid in C:\\xampp\\htdocs\\covid-tms\\dashboard.php on line 4
+[Thu Sep 29 21:34:47.749748 2022] [php7:notice] [pid 8020:tid 1796] [client 127.0.0.1:58129] PHP Notice:  Undefined index: aid in C:\\xampp\\htdocs\\covid-tms\\dashboard.php on line 4
